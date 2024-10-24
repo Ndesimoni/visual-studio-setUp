@@ -5,7 +5,7 @@ I show how to set up VS Code with these themes, extensions and settings in the f
 Theme
 I use the One Monokai in all the course videos. This is a free theme, similar to my personal favourite Monokai Pro. Link →
 
-##Extensions
+## Extensions
 Auto Close Tag to automatically close HTML tags. Link →
 
 Auto Rename Tag to automatically update matching HTML tags. Link →
@@ -18,7 +18,7 @@ Prettier to automatically format code. Link →
 
 Live Server to create a live preview for the current project. Link →
 
-##Settings
+## Settings
 Auto Save set to onFocusChange, to automatically save files
 
 Default Formatter set to Prettier - Code formatter (esbnp.prettier-vscode), to enable the Prettier extension to format our code
